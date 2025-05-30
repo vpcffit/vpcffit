@@ -1,0 +1,17 @@
+{
+    "kwargs0": {
+        "ensemble_axes_metadata": [],
+        "metadata": {
+            "energy": 200000.0,
+            "label": "intensity",
+            "reciprocal_space": false,
+            "semiangle_cutoff": 18,
+            "units": "arb. unit"
+        },
+        "sampling": [
+            0.3475971786440249,
+            0.3466673796116879
+        ]
+    },
+    "type0": "Images"
+}
